@@ -1,0 +1,56 @@
+{
+
+	"links": [
+		{
+			"title": "Конфиг для MX Player",
+			"description": "Файл конфигурации с оптимизированными под телевизор настройками плеера",
+			"url": "https://example.com",
+			"app_review": ""
+		},
+		{
+			"title": "Видеообзор",
+			"description": "Посмотреть видеообзор приложений. Нажатие на кнопку откроет видео в плеере. Длинное нажатие откроет видео в ютубе",
+			"url": "http://localhost:8080/video.mp4",
+			"app_review": "https://m.youtube.com/watch?v=8p0nlrjs9mM"
+		},
+		{
+			"title": "Больше приложений",
+			"description": "Нажми на эту кнопку и открой сайт в браузере",
+			"url": "http://localhost:8080",
+			"app_review": ""
+		},
+		{
+			"title": "Аналитика",
+			"description": "Этот список приложений загрузили с сервера 777 раз",
+			"url": "http://localhost:8080",
+			"app_review": ""
+		}
+	],
+
+	"apps": [
+		{
+			"title": "Total Commander",
+			"description": "Файл-менеджер. Легкий, мощный, поддерживает управление с пульта",
+			"url": "http://localhost:8080/total.apk",
+			"mirror": "http://example.com",
+			"app_review": "",
+			"category": "Файлы"
+		},
+		{
+			"title": "TotalCmd WiFi Transfer",
+			"description": "Быстрая и удобная передача файлов по вайфай. Поднимает сервер WebDAV и показывает QR-код со ссылкой для быстрого подключения с телефона",
+			"url": "http://localhost:8080/tcwifi.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": "Файлы"
+		},
+		{
+			"title": "MX Player",
+			"description": "Видеопроигрыватель. \nВерсия 1.20.7. Это старая версия без новомодных финтиплюшек и без рекламы",
+			"url": "http://localhost:8080/mxplayer.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": "Видео"
+		}
+	]
+}
