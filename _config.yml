@@ -1,0 +1,50 @@
+# Переменные
+title: Home page
+
+
+# Конфигурация
+encoding: UTF-8
+#theme: jekyll-theme-primer
+timezone: Europe/Kiev
+markdown: kramdown
+highlighter: rouge
+#mybaseurl: "" # встраивается в шапку html
+baseurl: "" # хардкодится перед каждой относительной ссылкой
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-paginate
+  - jekyll-gist
+  - rouge
+# for github pages compatibility
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+#  - jekyll-readme-index
+#  - jekyll-coffeescript
+#  - jekyll-gist
+#  - jekyll-github-metadata
+#  - jekyll-default-layout
+
+ 
+# Заранее заданные переменные для файлов
+#defaults:
+#- scope:
+#    type: pages
+#  values:
+#    layout: default
+
+
+exclude: [node_modules, README.md]
+
+
+#markdown: GFM
+#markdown: CommonMarkGhPages
+#commonmark:
+#  options: ["SMART", "FOOTNOTES"]
+#  extensions: ["strikethrough", "autolink", "tables"]
