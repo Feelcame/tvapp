@@ -1,5 +1,7 @@
 ---
-permalink: /tv/
+permalink: 
+  - /tv/
+  - /tv.json
 ---
 {
 
