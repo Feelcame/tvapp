@@ -6,7 +6,7 @@ permalink: /tv/
 	"links": [
 		{
 			"title": "Инструкция",
-			"description": "Информация как пользоваться",
+			"description": "Сайт подборки. Информация как пользоваться",
 			"url": "https://tva.pp.ua",
 			"app_review": ""
 		},
@@ -18,13 +18,13 @@ permalink: /tv/
 		},
 		{
 			"title": "Больше приложений",
-			"description": "Нажми на эту кнопку и открой сайт в браузере",
+			"description": "Сайт автора. Нажми на эту кнопку и открой сайт в браузере. По ссылке еще больше полезного софта",
 			"url": "https://feelcame.github.io/r/android.html",
 			"app_review": ""
 		},
 		{
 			"title": "Аналитика",
-			"description": "Этот список приложений загрузили с сервера 777 раз. \nПоследнее обновление 2024-03-15",
+			"description": "Этот список приложений загрузили с сервера 777 раз. Последнее обновление 2024-03-15",
 			"url": "https://tva.pp.ua",
 			"app_review": ""
 		}
@@ -41,7 +41,7 @@ permalink: /tv/
 		},
 		{
 			"title": "TotalCmdWifi Transfer 4.3 (com.ghisler.tcplugins.wifitransfer)",
-			"description": "Это плагин для тотал командера. Нужен для быстрой передачи файлов по сети",
+			"description": "Это плагин для тотала. Нужен чтобы удобно передавать файлы по сети",
 			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/TotalCmdWifi_Transfer_4.3_(com.ghisler.tcplugins.wifitransfer)+=.apk",
 			"mirror": "",
 			"app_review": "",
@@ -89,7 +89,7 @@ permalink: /tv/
 		},
 		{
 			"title": "LAMPA 1.6.1 (top.rootu.lampa)",
-			"description": "Альтернативная сборка лампы, на случай если первій вариант вдруг не работает. Для просмотра онлайн добавьте расширение http://bwa.to/o",
+			"description": "Альтернативная сборка лампы, на случай если первый вариант вдруг не работает. Для просмотра онлайн добавьте расширение http://bwa.to/o",
 			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/LAMPA_1.6.1_(top.rootu.lampa)+=.apk",
 			"mirror": "",
 			"app_review": "",
@@ -105,7 +105,7 @@ permalink: /tv/
 		},
 		{
 			"title": "TorrServe MatriX MatriX.130.Client (ru.yourok.torrserve)",
-			"description": "Загрузчик торрентов для просмотра фильмов в высоком качестве",
+			"description": "Загрузчик торрентов для просмотра фильмов в высоком качестве. Скармливаешь ему ссылку на торрент, а он возвращает прямую ссылку на просмотр фильма. При этом он сам занимается закачкой, буферизацией и т.п. Теперь смотреть торренты так же удобно как онлайн",
 			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/LAMP!SHE_1.6_(atv.pingvi.lampishe)+=",
 			"mirror": "",
 			"app_review": "",
@@ -121,7 +121,7 @@ permalink: /tv/
 		},
 		{
 			"title": "ATV Launcher 0.1.21pro (ca.dstudio.atvlauncher.pro)",
-			"description": "Удобный лаунчер для смарт тв",
+			"description": "Удобный лаунчер для смарт тв. Значительно более удобный стандартного. Гибко настраивается",
 			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/ATV_Launcher_0.1.21pro_(ca.dstudio.atvlauncher.pro)+=.apk",
 			"mirror": "",
 			"app_review": "",
@@ -129,7 +129,7 @@ permalink: /tv/
 		},
 		{
 			"title": "App As Launcher 1.1 (com.vaultek.allapplauncher)",
-			"description": "Автозапуск какого то приложения при включении (вместо лаунчера). Полезно если вы пользуетесь  только какой-то одной программой",
+			"description": "Автозапуск какого либо приложения при включении (вместо лаунчера). Полезно если вы пользуетесь только какой-то одной программой",
 			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/App_As_Launcher_1.1_(com.vaultek.allapplauncher)+=.apk",
 			"mirror": "",
 			"app_review": "",
