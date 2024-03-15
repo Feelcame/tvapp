@@ -1,56 +1,155 @@
+---
+permalink: /tv
+---
 {
 
 	"links": [
 		{
-			"title": "Конфиг для MX Player",
-			"description": "Файл конфигурации с оптимизированными под телевизор настройками плеера",
-			"url": "https://example.com",
+			"title": "Инструкция",
+			"description": "Информация как пользоваться",
+			"url": "https://tva.pp.ua",
 			"app_review": ""
 		},
 		{
 			"title": "Видеообзор",
-			"description": "Посмотреть видеообзор приложений. Нажатие на кнопку откроет видео в плеере. Длинное нажатие откроет видео в ютубе",
-			"url": "http://localhost:8080/video.mp4",
+			"description": "Посмотреть видеообзор приложений. \nНажатие на кнопку откроет видео в плеере. Длинное нажатие откроет видео в ютубе",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/video.mp4",
 			"app_review": "https://m.youtube.com/watch?v=8p0nlrjs9mM"
 		},
 		{
 			"title": "Больше приложений",
 			"description": "Нажми на эту кнопку и открой сайт в браузере",
-			"url": "http://localhost:8080",
+			"url": "https://feelcame.github.io/r/android.html",
 			"app_review": ""
 		},
 		{
 			"title": "Аналитика",
-			"description": "Этот список приложений загрузили с сервера 777 раз",
-			"url": "http://localhost:8080",
+			"description": "Этот список приложений загрузили с сервера 777 раз. \nПоследнее обновление 2024-03-15",
+			"url": "https://tva.pp.ua",
 			"app_review": ""
 		}
 	],
 
 	"apps": [
 		{
-			"title": "Total Commander",
+			"title": "Total Commander 3.50b4d (com.ghisler.android.TotalCommander)",
 			"description": "Файл-менеджер. Легкий, мощный, поддерживает управление с пульта",
-			"url": "http://localhost:8080/d/total.apk",
-			"mirror": "http://example.com",
-			"app_review": "",
-			"category": "Файлы"
-		},
-		{
-			"title": "TotalCmd WiFi Transfer",
-			"description": "Быстрая и удобная передача файлов по вайфай. Поднимает сервер WebDAV и показывает QR-код со ссылкой для быстрого подключения с телефона",
-			"url": "http://localhost:8080/d/tcwifi.apk",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/Total_Commander_3.50b4d_(com.ghisler.android.TotalCommander)+=.apk",
 			"mirror": "",
 			"app_review": "",
-			"category": "Файлы"
+			"category": ""
 		},
 		{
-			"title": "MX Player",
-			"description": "Видеопроигрыватель. \nВерсия 1.20.7. Это старая версия без новомодных финтиплюшек и без рекламы",
-			"url": "http://localhost:8080/d/mxplayer.apk",
+			"title": "TotalCmdWifi Transfer 4.3 (com.ghisler.tcplugins.wifitransfer)",
+			"description": "Это плагин для тотал командера. Нужен для быстрой передачи файлов по сети",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/TotalCmdWifi_Transfer_4.3_(com.ghisler.tcplugins.wifitransfer)+=.apk",
 			"mirror": "",
 			"app_review": "",
-			"category": "Видео"
+			"category": ""
+		},
+		{
+			"title": "MX Player Pro 1.20.7 (com.mxtech.videoplayer.pro)",
+			"description": "Видеопроигрыватель. \nВерсия 1.20.7. Это старая версия без рекламы. Увеличенные шрифты",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/MX_Player_Pro_1.20.7_(com.mxtech.videoplayer.pro)+=TV.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "Vimu Media Player 10.25 (net.gtvbox.videoplayer)",
+			"description": "Видеоплеер для телевизоров. Управление с пульта",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/Vimu_Media_Player_10.25_(net.gtvbox.videoplayer)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "SmartTube 21.34 (com.teamsmart.videomanager.tv)",
+			"description": "Улучшенная версия ютуба для ТВ. Гибко настраивается и нет никакой рекламы",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/SmartTube_21.34_(com.teamsmart.videomanager.tv)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "Kino HD 3.4.2 (ru.full.khd.apq)Strannik ADSOFF mod11",
+			"description": "Парсер фильмов с разных сайтов",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/Kino_HD_3.4.2_(ru.full.khd.apq)+=Strannik_ADSOFF_mod11.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "Lampa TV 7.7.9115 (ru.twicker.lampa)",
+			"description": "Удобное приложение для просмотра фильмов. Добавьте расширение http://bwa.to/o",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/Lampa_TV_7.7.9115_(ru.twicker.lampa)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "LAMPA 1.6.1 (top.rootu.lampa)",
+			"description": "Альтернативная сборка лампы, на случай если первій вариант вдруг не работает. Для просмотра онлайн добавьте расширение http://bwa.to/o",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/LAMPA_1.6.1_(top.rootu.lampa)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "LAMP!SHE 1.6 (atv.pingvi.lampishe)",
+			"description": "Лампище - это заранее настроенная лампа. Просмотр онлайн работает из коробки. Можно смотреть торренты, для этого надо поставить TorrServe Matrix",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/LAMP!SHE_1.6_(atv.pingvi.lampishe)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "TorrServe MatriX MatriX.130.Client (ru.yourok.torrserve)",
+			"description": "Загрузчик торрентов для просмотра фильмов в высоком качестве",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/LAMP!SHE_1.6_(atv.pingvi.lampishe)+=",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "Televizo 1.9.7.46d (com.ottplay.ottplay)",
+			"description": "Просмотр IPTV-каналов. Ссылку на плейлист надо прописать вручную. Рекомендую этот: https://iptv.org.ua/iptv/avto.m3u",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/Televizo_1.9.7.46d_(com.ottplay.ottplay)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "ATV Launcher 0.1.21pro (ca.dstudio.atvlauncher.pro)",
+			"description": "Удобный лаунчер для смарт тв",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/ATV_Launcher_0.1.21pro_(ca.dstudio.atvlauncher.pro)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "App As Launcher 1.1 (com.vaultek.allapplauncher)",
+			"description": "Автозапуск какого то приложения при включении (вместо лаунчера). Полезно если вы пользуетесь  только какой-то одной программой",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/App_As_Launcher_1.1_(com.vaultek.allapplauncher)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "Fire TV style Keyboard 0.2e (com.example.semitop7.FireTVStyle)",
+			"description": "Плавающая клавиатура в стиле Amazon Fire TV",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/Fire_TV_style_Keyboard_0.2e_(com.example.semitop7.FireTVStyle)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
+		},
+		{
+			"title": "TInstaller 1.08 (ru.yourok.technozon)",
+			"description": "Установщик приложений",
+			"url": "https://link.storjshare.io/raw/jwm4uoa3tunhjhiij2dr6nzcxkrq/apk/d/TInstaller_1.08_(ru.yourok.technozon)+=.apk",
+			"mirror": "",
+			"app_review": "",
+			"category": ""
 		}
 	]
 }
